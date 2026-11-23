@@ -15,6 +15,7 @@ add_executable(DMA-Controller-Architecture-and-Register-Interface
     src/sc_main.cpp
     src/cpu.cpp
     src/dma_controller.cpp
+    src/memory.cpp
     tests/test_dma_transfer.cpp
 )
 
